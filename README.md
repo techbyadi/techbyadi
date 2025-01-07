@@ -1,11 +1,11 @@
 ## Namaste 🙏 
 
-<h3>About me:</h3>
+<h3>About me</h3>
  Experienced Software Developer and SDET with a strong background in healthcare technology and software development. I’ve contributed to high-impact projects, delivering quality software solutions through automation and efficient design. My expertise spans the MERN stack, chatbot development, and scalable application architectures.
 
 <hr>
   <div>
-      <h3>Proficiencies:</h3>
+      <h3>Proficiencies</h3>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&for-the-badge&logo=notion&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />  </a>
@@ -32,7 +32,7 @@
 
 <hr>
   <div>
-    <h3>Reach out:</h3>
+    <h3>Reach out</h3>
     <a href="[https://www.linkedin.com/in/benjamintmanley/](https://www.linkedin.com/in/aditya-sharma-3a0b6a190/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
     <a href="mailto: pssharma.aditya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
   </div>
@@ -41,7 +41,7 @@
 <h5>TL;BR : Too Long, But Read ;) </h5>
 <h3>Open-Source Contributions: </h3>
  
-  - <h4>CareConnect:</h4> CareConnect makes finding the right doctor and managing your medical care easier. Search for doctors based on symptoms, conditions, or specializations, and check real-time availability for appointments. Effortlessly book, delete, or edit appointments, and leave or read reviews to help others make informed decisions.
+  - <h4>CareConnect</h4> CareConnect makes finding the right doctor and managing your medical care easier. Search for doctors based on symptoms, conditions, or specializations, and check real-time availability for appointments. Effortlessly book, delete, or edit appointments, and leave or read reviews to help others make informed decisions.
     
       - <ins>*Tech Stack:*</ins> MongoDB, React, Node, JavaScript, Express, JWT
         
@@ -49,7 +49,7 @@
         
       - <ins>*Links:*</ins>   [Live Demo](https://care-connect-health.netlify.app/),  [CareConnect BackEnd Repo](https://github.com/techbyadi/careconnect-back-end), [CareConnect FrontEnd Repo](https://github.com/techbyadi/careconnect-front-end)
 
- - <h4>HouseHop:</h4> HouseHop is an app that helps homebuyers organize their journey, built with MongoDB, Express.js, and Node.js. It features a Planner to track houses to visit and notes on those seen, and a Wishlist to view saved homes, categorized by rating, budget, or both.
+ - <h4>HouseHop</h4> HouseHop is an app that helps homebuyers organize their journey, built with MongoDB, Express.js, and Node.js. It features a Planner to track houses to visit and notes on those seen, and a Wishlist to view saved homes, categorized by rating, budget, or both.
  
       - <ins>*Tech Stack:*</ins> EJS, Node, JavaScript, Express, JWT, MongoDB
         
