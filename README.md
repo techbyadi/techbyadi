@@ -1,7 +1,10 @@
 ## Namaste 🙏 
 
 <h3>About me</h3>
- Experienced Software Developer and SDET with a strong background in healthcare technology and software development. I’ve contributed to high-impact projects, delivering quality software solutions through automation and efficient design. My expertise spans the MERN stack, chatbot development, and scalable application architectures.
+Experienced Full-Stack Software Engineer with a track record of building 0→1 fintech product from concept to production, alongside contributions to healthcare and government platforms. Skilled in integrating blockchain/DeFi protocols, developing FDA-compliant biowearables, and delivering AI-enhanced solutions.<br>
+
+<br>
+Strong background in QA automation, team enablement, and regulatory documentation. Hands-on expertise with Python/Django, Node.js/Express, React/Next.js, PostgreSQL, AWS, Docker, and web3 libraries.
 
 <hr>
   <div>
@@ -39,7 +42,21 @@
 
 <hr>
 <h5>TL;BR </h5> <h6>Too Long, But Read ;) </h6> 
-<h3>Open-Source Contributions: </h3>
+
+<h3>Startup & Venture Projects: </h3>
+
+- <h4>Wealth Management Platform (Stealth Mode)</h4> Building a next-gen wealth management platform for RIAs and family offices, with features like crypto investments (staking, lending and swap), portfolio dashboards, and real-time notifications.
+
+  - <ins>*Full-Stack Software Engineer*</ins>
+  
+    - Implemented crypto staking/unstaking workflows with custodians (Kiln, Lido), enabling secure and reliable digital asset transactions for platform users.
+    - Built end-to-end features for portfolio management and notifications across RIAs, IARs, and customer dashboards, improving visibility and communication.
+    - Developed services in Python (Django) and Next.js, leveraging Temporal workflows for reliability.
+    - Integrated APIs with custodians and DeFi protocols, streamlining digital asset management and broadening investment capabilities for advisors.
+    - Managed AWS deployment with focus on scalability, security, and compliance.
+    - Contributed to architecture decisions, code reviews, and engineering best practices
+
+<h3>Open-Source Contributions: </h3> 
  
   - <h4>CareConnect</h4> CareConnect makes finding the right doctor and managing your medical care easier. Search for doctors based on symptoms, conditions, or specializations, and check real-time availability for appointments. Effortlessly book, delete, or edit appointments, and leave or read reviews to help others make informed decisions.
     
